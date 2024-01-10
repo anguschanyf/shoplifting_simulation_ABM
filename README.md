@@ -1,3 +1,2 @@
 # shoplifting_simulation
-
-This stores the code of a project that I learned to run a simulation on shoplifting scenarios in grocery stores on NetLogo.
+This stores the Netlogo code of a project that I learned to run an agent-based model simulation on shoplifting incidents in a supermarket. With the aid of Netlogo, it creates panel where you can adjust the probability of guardians spotting a shoplifting incident and that of shoplifters spotted a guardians before getting caught. In a nutshell, this simulation demonstrates the deterrance effect of providing better training for guards who then are more able to detect shoplifitng acts.
